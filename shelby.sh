@@ -6,3 +6,5 @@ mkdir texts ##Creating a new directory doesn't automatically move you into it
 
 mv *.txt ./texts
 rm deleteme.txt
+
+# comment
